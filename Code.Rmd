@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'A comprehensive statistical and machine learning exercise'
 author: "Tina Rezvanian"
 date: "June 3, 2019"
 output:
